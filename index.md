@@ -6,7 +6,7 @@ This web page features information about our research on video games and their a
 - BlackHat'25: Watching the Watchers: Exploring and Testing Defenses of Anti-Cheat Systems.
 [[Slides](./presentations/2025-08-06-bhusa-watching-the-watchers.pdf)] - [[Recording (TBD]()]
 - DefCon'25: Watching the Watchers: Exploring and Testing Defenses of Anti-Cheat Systems.
-[[Slides (TBD)]()] - [[Recording (TBD]()]
+[[Slides)](./presentations/2025-08-10-defcon33-playing-dirty-without-cheating.pdf)] - [[Recording (TBD]()]
 
 ## Academic Publications
 - Sam Collins, Alex Poulopoulos, Marius Muench, and Tom Chothia. Anti-Cheat: Attacks and the Effectiveness of Client-Side Defences. Workshop on Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks (CheckMATE '24).
