@@ -15,6 +15,7 @@ This web page features information about our research on video games and their a
 ## Media Coverage
 
 Our work has been covered in several articles by several outlets, including:
+- 08/25: [TechSpot: "Study uncovers dark market making millions from video game cheats"](https://www.techspot.com/news/109030-study-uncovers-dark-market-making-millions-video-game.html)
 - 08/25: [Wired: "Inside the Multimillion-Dollar Gray Market for Video Game Cheats"](https://www.wired.com/story/inside-the-multimillion-dollar-grey-market-for-video-game-cheats/)
 - 11/24: [TheVerge: "Valorant is winning the war against PC gaming cheaters"](https://www.theverge.com/2024/11/4/24283482/valorant-is-winning-the-war-against-pc-gaming-cheaters)
 - 10/24: [TechXplore: "Windows kernel defenses aren't enough to stop a lucrative game cheating market, research shows"](https://techxplore.com/news/2024-10-windows-kernel-defenses-lucrative-game.html)
