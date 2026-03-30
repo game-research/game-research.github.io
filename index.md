@@ -4,7 +4,7 @@ This web page features information about our research on video games and their a
 
 ## Presentations:
 - BlackHat US'25: Watching the Watchers: Exploring and Testing Defenses of Anti-Cheat Systems.
-[[Slides](./presentations/2025-08-06-bhusa-watching-the-watchers.pdf)] - [[Recording (TBD)]()]
+[[Slides](./presentations/2025-08-06-bhusa-watching-the-watchers.pdf)] - [[Recording](https://www.youtube.com/watch?v=lAW2mAl96KI)]
 - DefCon33 (2025): Playing Dirty Without Cheating - Getting Banned for Fun and No Profit
 [[Slides](./presentations/2025-08-10-defcon33-playing-dirty-without-cheating.pdf)] - [[Recording](https://www.youtube.com/watch?v=FXIScbxJTZw)]
 
